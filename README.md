@@ -1,2 +1,2 @@
 # Tindog-master
-<a href="https://kind-kare-150fba.netlify.app/">Live Website Link</a>
+<a href="https://tindogmasterk.netlify.app/">Live Website Link</a>
